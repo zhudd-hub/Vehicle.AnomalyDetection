@@ -12,7 +12,7 @@
 
 # 几何中心
 
-![Image text](https://github.com/zhudd-hub/Vehicle.AnomalyDetection/blob/master/pictures/center_toward.png)
+![Image text](https://github.com/zhudd-hub/Vehicle.AnomalyDetection/blob/master/pictures/box_center.png)
 
 # 端向中心
 
